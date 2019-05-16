@@ -11,6 +11,5 @@ README for APMAE4990 Final Project by Diana Mojahed, Camille Ruppli and Pawan La
 - The supplemental files include
   1. TestData.zip - which includes the following
     1. APM4990_final_test_data_filtered.csv
-  2. Final_Predictions.zip - which includes the following
-    1. Final_Predictions.csv
-- The final prediction result is saved in the Final_Predictions.csv file under the column titled "prediction".
+  2. predictions_final.csv
+- The final prediction result is saved in the predictions_final.csv file under the column titled "predictions ».
